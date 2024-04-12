@@ -1,0 +1,48 @@
+/* 设置窗口背景 */
+#backgroundWidget {
+    border-image: url(./images/background.png) stretch stretch;
+    border-radius: 20px;
+}
+/* 关闭按钮 */
+#closeBtn {
+    border: none;
+    background: none;
+}
+/* 说明 */
+#text1, #text2 {
+    color: #fff;
+}
+/* 文本框 */
+#edit1, #edit2 {
+    padding-left: 20px;
+    border-radius: 20px;
+}
+/* 按钮 */
+#templateBtn, #sourceBtn {
+    border: 2px solid #fff;
+    border-radius: 20px;
+    background: none;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+#templateBtn:hover, #sourceBtn:hover {
+    background-color: #fff;
+    color: #000;
+}
+#transformBtn {
+    border: 2px solid #fff;
+    border-radius: 25px;
+    background: none;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+#transformBtn:hover {
+    background-color: #fff;
+    color: #000;
+}
+/* 版本号 */
+#version {
+    color: #fff;
+}

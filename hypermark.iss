@@ -2,18 +2,18 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "HyperMark"
-#define MyAppVersion "1.0.0"
-#define MyAppPublisher "Elias Chang"
+#define MyAppVersion "1.0.1"
+#define MyAppPublisher "EliasChang"
 #define MyAppURL "https://eliaschang.xyz/"
 #define MyAppExeName "hypermark.exe"
-#define MyAppAssocName MyAppName + " File"
+#define MyAppAssocName MyAppName + ""
 #define MyAppAssocExt ".myp"
 #define MyAppAssocKey StringChange(MyAppAssocName, " ", "") + MyAppAssocExt
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
-AppId={{70372037-B8CD-43B4-B617-AEDF4D2111A1}
+AppId={{F334E712-0C7D-4C93-A2E2-F2BB2A9285FF}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
@@ -26,7 +26,7 @@ ChangesAssociations=yes
 DisableProgramGroupPage=yes
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
-OutputBaseFilename=HyperMarkSetup
+OutputBaseFilename=HyperMark_v1.0.1
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
@@ -38,8 +38,8 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "E:\CS\Python\HyperMark\HyperMark\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "E:\CS\Python\HyperMark\HyperMark\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "E:\CS\Python\HyperMark\project\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "E:\CS\Python\HyperMark\project\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
