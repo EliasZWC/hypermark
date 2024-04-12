@@ -1,11 +1,14 @@
 # Welcome to HyperMark！
 本应用目前仅支持Windows平台。
+
 This app currently only supports Windows platform.
 
 HyperMark应用是由Elias Chang开发的一款用于批量转换Markdown文件为HTML文件的工具类应用，用户可以轻松将某个文件目录下的全部Markdown文件按某个HTML模板转换为相应的HTML文件。
+
 The HyperMark application is a utility app developed by Elias Chang for batch converting Markdown files into HTML files, allowing users to easily convert all Markdown files in a designated directory into corresponding HTML files using a specific HTML template.
 
 更多联系信息请查看我的Github主页。 
+
 Check out my Github page for more contact information.
 
 ## version：1.0.1
