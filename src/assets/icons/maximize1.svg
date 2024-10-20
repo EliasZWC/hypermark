@@ -1,0 +1,15 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip123_1890">
+			<rect id="maximize" width="100.000000" height="100.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="maximize" width="100.000000" height="100.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip123_1890)">
+		<path id="减去顶层" d="M30 20L70 20C75.5228 20 80 24.4772 80 30L80 70C80 75.5228 75.5228 80 70 80L30 80C24.4772 80 20 75.5228 20 70L20 30C20 24.4772 24.4772 20 30 20ZM68 25L32 25C28.134 25 25 28.134 25 32L25 68C25 71.866 28.134 75 32 75L68 75C71.866 75 75 71.866 75 68L75 32C75 28.134 71.866 25 68 25Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<rect id="矩形 7" x="25.000000" y="25.000000" width="51.000000" height="10.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+</svg>

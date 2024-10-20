@@ -1,0 +1,16 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip143_2384">
+			<rect id="本地" width="100.000000" height="100.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip143_2384)">
+		<path id="path" d="M50 91.66C50 91.66 81.25 66.66 81.25 39.58C81.25 22.32 67.25 8.33 50 8.33C32.74 8.33 18.75 22.32 18.75 39.58C18.75 66.66 50 91.66 50 91.66Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M81.25 39.58C81.25 22.32 67.25 8.33 50 8.33C32.74 8.33 18.75 22.32 18.75 39.58C18.75 66.66 50 91.66 50 91.66C50 91.66 81.25 66.66 81.25 39.58Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="8.000000" stroke-linejoin="round"/>
+		<path id="path" d="M50 52.08C56.9 52.08 62.5 46.48 62.5 39.58C62.5 32.67 56.9 27.08 50 27.08C43.09 27.08 37.5 32.67 37.5 39.58C37.5 46.48 43.09 52.08 50 52.08Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M62.5 39.58C62.5 32.67 56.9 27.08 50 27.08C43.09 27.08 37.5 32.67 37.5 39.58C37.5 46.48 43.09 52.08 50 52.08C56.9 52.08 62.5 46.48 62.5 39.58Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="8.000000" stroke-linejoin="round"/>
+	</g>
+</svg>

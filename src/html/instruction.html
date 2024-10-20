@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'">
+    <link href="../css/styles.css" rel="stylesheet">
+    <link href="../css/pages/instruction.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="leftbar">
+      <a id="logo" class="link" href="https://eliaschang.xyz/pages/resource/resourcePage/hypermark.html"><img src="../assets/images/logo.svg"></a>
+      <a id="transform" class="page" href="../index.html"><img src="../assets/icons/transform.svg"></a>
+      <a id="contact" class="page" href="contact.html"><img src="../assets/icons/contact.svg"></a>
+      <a id="instruction" class="page" href="instruction.html"><img src="../assets/icons/instruction.svg"></a>
+      <a id="about" class="page" href="about.html"><img src="../assets/icons/about.svg"></a>
+      <a id="setting" class="page" href="setting.html"><img src="../assets/icons/setting.svg"></a>
+    </div>
+    <main>
+      <div id="windowControl">
+        <span id="minimize"><img src="../assets/icons/minimize.svg"></span>
+        <span id="maximize"><img src="../assets/icons/maximize.svg"></span>
+        <span id="close"><img src="../assets/icons/close.svg"></span>
+      </div>
+      <div id="mainbar">
+        <img id="instructionLogo" src="../assets/images/instructionLogo.png">
+        <div id="content">
+            <p id="foreword">
+                Hypermark can batch convert Markdown files into HTML files, making it a very convenient desktop tool for applications such as personal website construction. However, it is recommended to read the following instructions before using it to help you use this software more effectively.
+            </p>
+            <p class="contentTitle">00 // PREPARATION</p>
+            <p>
+                Before converting the files, you need to ensure that you have an HTML file as a conversion template, a folder containing the Markdown files you wish to convert, and an empty folder to store the converted HTML files.
+            </p>
+            <p>
+              It should be noted that you need to select the position in the HTML template file where you want to inject the Markdown content and mark the injection interface. The injection interface code is as follows.
+            </p>
+            <div class="code">{content}</div>
+            <p class="contentTitle">01 // SOFTWARE FUNCTIONS</p>
+            <p>
+              After completing the preparations, open Hypermark. In the left sidebar, there are a total of five icons from top to bottom: the CONVERSION module, the CONTACT module, the INSTRUCTIONS module, the ABOUT module, and the SETTINGS module.
+            </p>
+            <img src="../assets/images/instr1.png">
+            <p>
+              The CONVERSION module is responsible for the conversion functions of Hypermark, and all conversions are completed within this module. In the conversion module, you can convert Markdown files into HTML files and also save the conversion information as a template for batch use, allowing for repeated application.
+            </p>
+            <p>
+              The CONTACT module provides various contact methods of the author. If you have any needs or feedback, you can contact the author using the provided contact details, and the author will respond at the earliest possible opportunity.
+            </p>
+            <p>
+              The INSTRUCTIONS module explains the usage of this application. Completing the tutorial will allow you to easily use Hypermark.
+            </p>
+            <p>
+              The ABOUT module primarily outlines information related to Hypermark, such as the author’s introduction, development history, and other relevant details.
+            </p>
+            <p>
+              The SETTINGS module primarily provides options for configuring certain features; however, in earlier software versions, there are currently no configurable items available.
+            </p>
+            <p class="contentTitle">02 // CONVERSION TEMPLATE CREATION</p>
+            <p>
+              Enter the conversion module, click the “Add Template” button, and proceed to the template creation form.
+            </p>
+            <img src="../assets/images/instr2.png">
+            <p>
+              Fill in the conversion template’s name and description according to your preferences, and select three file paths:
+            </p>
+            <p>
+              The file path for the HTML file that serves as the conversion template.
+            </p>
+            <p>
+              The folder path where the Markdown files to be converted are located.
+            </p>
+            <p>
+              The folder path where the final converted HTML files will be stored.
+            </p>
+            <img src="../assets/images/instr3.png">
+            <p>
+              Click on the template to see the detailed information of the template you have created. If everything is correct, you can click the “Convert” button to proceed with the file conversion.
+            </p>
+            <img src="../assets/images/instr4.png">
+            <p>
+              At this point, the file conversion is complete.
+            </p>
+        </div>
+      </div>
+    </main>
+    <script src="../js/renderer.js"></script>
+  </body>
+</html>

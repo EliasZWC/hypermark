@@ -1,0 +1,22 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip132_2019">
+			<rect id="搜索" width="60.000000" height="60.000000" transform="translate(20.000000 20.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip132_2017">
+			<rect id="search" width="100.000000" height="100.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="search" width="100.000000" height="100.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip132_2017)">
+		<g clip-path="url(#clip132_2019)">
+			<path id="path" d="M46.25 67.5C57.98 67.5 67.5 57.98 67.5 46.25C67.5 34.51 57.98 25 46.25 25C34.51 25 25 34.51 25 46.25C25 57.98 34.51 67.5 46.25 67.5Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M67.5 46.25C67.5 34.51 57.98 25 46.25 25C34.51 25 25 34.51 25 46.25C25 57.98 34.51 67.5 46.25 67.5C57.98 67.5 67.5 57.98 67.5 46.25Z" stroke="#6933AC" stroke-opacity="1.000000" stroke-width="5.000000" stroke-linejoin="round"/>
+			<path id="path" d="M59.78 63.29L59.75 63.29C58.76 62.3 58.76 60.74 59.75 59.75C60.74 58.76 62.3 58.76 63.29 59.75L63.29 59.78L59.78 63.29ZM73.87 70.36L73.9 70.36C74.89 71.35 74.89 72.91 73.9 73.9C72.91 74.89 71.35 74.89 70.36 73.9L70.36 73.87L73.87 70.36Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M61.52 61.52L72.13 72.13" stroke="#6933AC" stroke-opacity="1.000000" stroke-width="5.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+	</g>
+</svg>

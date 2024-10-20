@@ -1,0 +1,26 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip133_2077">
+			<rect id="文件添加" width="60.000000" height="60.000000" transform="translate(20.000000 20.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip133_2041">
+			<rect id="fileAdd" width="100.000000" height="100.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="fileAdd" width="100.000000" height="100.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip133_2041)">
+		<g clip-path="url(#clip133_2077)">
+			<path id="path" d="M32.5 75L67.5 75C68.88 75 70 73.88 70 72.5L70 37.5L57.5 37.5L57.5 25L32.5 25C31.11 25 30 26.11 30 27.5L30 72.5C30 73.88 31.11 75 32.5 75Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M67.5 75C68.88 75 70 73.88 70 72.5L70 37.5L57.5 37.5L57.5 25L32.5 25C31.11 25 30 26.11 30 27.5L30 72.5C30 73.88 31.11 75 32.5 75L67.5 75Z" stroke="#6933AC" stroke-opacity="1.000000" stroke-width="5.000000" stroke-linejoin="round"/>
+			<path id="path" d="M55.76 26.76L55.73 26.76C54.74 25.77 54.74 24.22 55.73 23.23C56.72 22.24 58.27 22.24 59.26 23.23L59.26 23.26L55.76 26.76ZM71.73 35.73L71.76 35.73C72.75 36.72 72.75 38.27 71.76 39.26C70.77 40.25 69.22 40.25 68.23 39.26L68.23 39.23L71.73 35.73Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M57.5 25L70 37.5" stroke="#6933AC" stroke-opacity="1.000000" stroke-width="5.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path" d="M47.52 46.27L47.5 46.25C47.5 44.85 48.6 43.75 50 43.75C51.4 43.75 52.5 44.85 52.5 46.25L52.48 46.27L47.52 46.27ZM52.48 63.73L52.5 63.75C52.5 65.15 51.4 66.25 50 66.25C48.6 66.25 47.5 65.15 47.5 63.75L47.52 63.73L52.48 63.73Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M50 46.25L50 63.75" stroke="#6933AC" stroke-opacity="1.000000" stroke-width="5.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path" d="M41.27 57.48L41.25 57.5C39.84 57.5 38.75 56.4 38.75 55C38.75 53.6 39.84 52.5 41.25 52.5L41.27 52.52L41.27 57.48ZM58.73 52.52L58.75 52.5C60.15 52.5 61.25 53.6 61.25 55C61.25 56.4 60.15 57.5 58.75 57.5L58.73 57.48L58.73 52.52Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M41.25 55L50 55L58.75 55" stroke="#6933AC" stroke-opacity="1.000000" stroke-width="5.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,50 @@
+body {
+    background-color: #6933ac;
+}
+#minimize:hover, #maximize:hover {
+    background-color: #442071;
+}
+
+/* 左边栏 */
+#contact::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 10px;
+    height: 80px;
+    background-color: #fff;
+}
+
+/* 说明内容 */
+#mainbar {
+    position: absolute;
+    right: 0;
+    width: calc(100vw - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+#backgroundLogo {
+    position: fixed;
+    top: 20vh;
+    left: 50%;
+    width: 60%;
+}
+#information {
+    position: fixed;
+    top: 3vh;
+    left: 16vw;
+    margin-top: 3vh;
+}
+.contactInfo {
+    margin-bottom: 3vh;
+    display: flex;
+    font-size: 2.2vh;
+    color: #fff;
+}
+.contactInfo img {
+    margin-right: 2vw;
+    width: 4vh;
+}

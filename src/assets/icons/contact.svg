@@ -1,0 +1,23 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip131_1965">
+			<rect id="邮件" width="60.000000" height="60.000000" transform="translate(20.000000 23.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip131_1939">
+			<rect id="contact" width="100.000000" height="100.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="contact" width="100.000000" height="100.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip131_1939)">
+		<g clip-path="url(#clip131_1965)">
+			<mask id="mask_131_1970" fill="white">
+				<path id="减去顶层" d="M75 34.5L73.2 35.85L73.184 35.862L50 53.25L26.816 35.862L26.8 35.85L25 34.5L25 34.25L75 34.25L75 34.5ZM75 42L51.8 59.4Q51 60 50 60Q49 60 48.2 59.4L25 42L25 53L25 71.75L75 71.75L75 42Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+			</mask>
+			<path id="减去顶层" d="M75 34.5L73.2 35.85L73.184 35.862L50 53.25L26.816 35.862L26.8 35.85L25 34.5L25 34.25L75 34.25L75 34.5ZM75 42L51.8 59.4Q51 60 50 60Q49 60 48.2 59.4L25 42L25 53L25 71.75L75 71.75L75 42Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_131_1970)"/>
+			<path id="减去顶层" d="" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>

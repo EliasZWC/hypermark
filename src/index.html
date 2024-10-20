@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'">
+    <link href="./css/styles.css" rel="stylesheet">
+    <link href="./css/pages/index.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="leftbar">
+      <a id="logo" class="link" href="https://eliaschang.xyz/pages/resource/resourcePage/hypermark.html"><img src="assets/images/logo.svg"></a>
+      <a id="transform" class="page" href="index.html"><img src="assets/icons/transform.svg"></a>
+      <a id="contact" class="page" href="./html/contact.html"><img src="assets/icons/contact.svg"></a>
+      <a id="instruction" class="page" href="./html/instruction.html"><img src="assets/icons/instruction.svg"></a>
+      <a id="about" class="page" href="./html/about.html"><img src="assets/icons/about.svg"></a>
+      <a id="setting" class="page" href="./html/setting.html"><img src="assets/icons/setting.svg"></a>
+    </div>
+    <main>
+      <div id="windowControl">
+        <span id="minimize"><img src="assets/icons/minimize.svg"></span>
+        <span id="maximize"><img src="assets/icons/maximize.svg"></span>
+        <span id="close"><img src="assets/icons/close.svg"></span>
+      </div>
+      <div id="listbar">
+        <div id="search">
+          <input type="text">
+          <img src="assets/icons/search.svg">
+        </div>
+        <div id="list"></div>
+        <div id="add">
+          <img src="assets/icons/add.svg">
+        </div>
+      </div>
+      <div id="mainbar">
+        <img id="defaultPage" src="assets/images/logo.png">
+      </div>
+    </main>
+    <script src="js/renderer.js"></script>
+    <script src="js/pages/index.js"></script>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+<svg width="512.000000" height="512.000000" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip41_8">
+			<rect id="tx-六边形" width="409.600006" height="409.600006" transform="translate(54.293945 50.920044)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip41_2">
+			<rect id="尺寸1" width="512.000000" height="512.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="尺寸1" width="512.000000" height="512.000000" fill="#000000" fill-opacity="0"/>
+	<g clip-path="url(#clip41_2)">
+		<circle id="椭圆 1" cx="256.000000" cy="256.000000" r="256.000000" fill="#000000" fill-opacity="1.000000"/>
+		<path id="合并" d="M327.072 97L247.259 235.24L134.012 235.24L190.641 137.156L258.272 137.156L281.366 97.156L167.547 97.156L76 255.72L167.547 414.284L280.733 414.284L257.639 374.284L190.641 374.284L133.443 275.214L246.49 275.214L326.517 413.825L326.599 413.778L326.875 414.255L326.825 414.284L350.641 414.284L419.109 295.694L372.921 295.694L338.697 354.972L281.493 255.893L338.797 156.641L372.943 215.784L419.131 215.784L350.641 97.156L327.524 97.156L327.478 97.2347L327.072 97Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

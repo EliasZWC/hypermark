@@ -1,0 +1,26 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip131_1923">
+			<rect id="转变" width="60.000000" height="60.000000" transform="translate(20.000000 20.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip130_1875">
+			<rect id="transform" width="100.000000" height="100.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="transform" width="100.000000" height="100.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip130_1875)">
+		<g clip-path="url(#clip131_1923)">
+			<circle id="circle" cx="37.143250" cy="37.142609" r="8.571424" fill="#FFFFFF" fill-opacity="1.000000"/>
+			<circle id="circle" cx="37.143250" cy="37.142609" r="8.571424" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+			<circle id="circle" cx="62.857376" cy="62.856766" r="8.571424" fill="#FFFFFF" fill-opacity="1.000000"/>
+			<circle id="circle" cx="62.857376" cy="62.856766" r="8.571424" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+			<path id="path" d="M49.98 73.51L50 73.5C50.84 73.5 51.5 74.16 51.5 75C51.5 75.83 50.84 76.5 50 76.5L49.98 76.48L49.98 73.51ZM33.97 52.83L34 52.82C34.75 53.2 35.05 54.08 34.67 54.83C34.3 55.58 33.41 55.88 32.66 55.5L32.65 55.48L33.97 52.83Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M50 75C36.19 75 25 63.8 25 50L33.33 54.16" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path" d="M50.02 26.48L50 26.5C49.16 26.5 48.5 25.84 48.5 25C48.5 24.16 49.16 23.5 50 23.5L50.02 23.52L50.02 26.48ZM66.02 47.16L65.99 47.17C65.24 46.79 64.95 45.91 65.32 45.16C65.7 44.41 66.58 44.11 67.33 44.49L67.34 44.51L66.02 47.16Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M50 25C63.8 25 75 36.19 75 50L66.66 45.83" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+	</g>
+</svg>

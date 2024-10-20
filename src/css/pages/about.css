@@ -1,0 +1,75 @@
+body {
+    background-color: #6933ac;
+}
+#minimize:hover, #maximize:hover {
+    background-color: #442071;
+}
+
+/* 左边栏 */
+#about::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 10px;
+    height: 80px;
+    background-color: #fff;
+}
+
+/* 内容 */
+#mainbar {
+    position: absolute;
+    right: 0;
+    width: calc(100vw - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+#aboutLogo { 
+    position: relative;
+    top: 0;
+    padding: 20vh 5% 0vh 5%;
+    width: 70%;
+}
+#introduction {
+    margin-top: 12vh;
+    width: 80%;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    line-height: 1.5;
+    font-size: 18px;
+    color: #fff;
+}
+#elias {
+    margin-right: 5vw;
+    height: 15vh;
+}
+#more {
+    margin-top: 12vh;
+    width: 30vw;
+    height: 5vw;
+    border: #fff 2px solid;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 2vw;
+    font-weight: 1000;
+    background-color: #6933ac;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+#more:hover {
+    background-color: #fff;
+    color: #6933ac;
+}
+#version {
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    color: #fff;
+}

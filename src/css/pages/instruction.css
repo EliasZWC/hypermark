@@ -1,0 +1,60 @@
+/* 左边栏 */
+#instruction::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 10px;
+    height: 80px;
+    background-color: #fff;
+}
+
+/* 内容 */
+#mainbar {
+    position: absolute;
+    right: 0;
+    width: calc(100vw - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+#instructionLogo {
+    top: 0;
+    position: relative;
+    padding: 20vh 5% 0vh 5%;
+    width: 70%;
+}
+#content {
+    margin-top: 10vh;
+    width: 70%;
+    overflow-y: auto;
+}
+#content p {
+    margin: 3vh 0;
+    line-height: 1.8;
+    color: #555;
+}
+#content img {
+    position: relative;
+    height: 50vh;
+    left: 50%;
+    transform: translate(-50%, 0); /* 移动回正中心 */
+}
+#foreword {
+    font-weight: 600;
+    color: #000 !important;
+}
+.contentTitle {
+    margin: 6vh 0 4vh 0 !important;
+    font-size: 20px;
+    font-weight: 1000;
+    color: #000 !important;
+}
+.code {
+    margin: 3vh 0;
+    padding: 5px 0 6px 20px;
+    border-radius: 5px;
+    background-color: #555;
+    color: #fff;
+}
