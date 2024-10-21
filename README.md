@@ -18,6 +18,7 @@ The update content for each version is as follows.
 ## 1.1.0
 - 更新了软件整体UI界面。
 - 增加了说明教程和联系方式。
+- 增加了保存转换模板功能。
 - 优化了转换引擎。
 
 ## 1.0.1
